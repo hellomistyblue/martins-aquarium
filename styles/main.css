@@ -1,0 +1,22 @@
+/* Utilize the CSS skills that you've learned so far to make each fish element and location element have a modern card look. Then use your Flexbox skills to implement the layout specified below in the low-fidelity wireframe.*/
+
+/* display: flex;*/
+
+body {
+    background-color: rgb(219, 213, 213);
+}
+h1 {
+  text-align: center;
+  color: #0d17a1;
+}
+.card {
+    background-color: aliceblue;
+    border-radius: 8px;
+    padding: 14px;
+}
+li {
+    margin-bottom: 8px;
+}
+.locations {
+    margin-top: 5px;    
+}

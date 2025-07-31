@@ -1,0 +1,9 @@
+
+.main-layout {
+    display: flex;
+    column-gap: 10rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+

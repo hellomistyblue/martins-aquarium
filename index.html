@@ -12,18 +12,26 @@
        <h1>Martin's Aquarium</h1>
    </header>
 
-   <main>
-       <section id="fishList">
-           <!-- Fish grid will be dynamically generated here -->
-       </section>
+   <main class="main-layout">
+        <div>
+            <div class="card">
+                <h2>Fish</h2>   
+                <section id="fishList">
+                </section>
+            </div>
 
-       <aside id="tipList">
-           <!-- Care tips will be dynamically generated here -->
-       </aside>
+            <div class="card locations">    
+                <h2>Locations</h2>
+                <section id="locationList">
+                </section>
+            </div> 
+        </div>
 
-       <section id="locationList">
-           <!-- Location grid will be dynamically generated here -->
-       </section>
+        <div class="card">
+            <h2>Tips</h2>
+            <aside id="tipList">
+            </aside>
+        </div>
    </main>
 
    <script src="./scripts/main.js" type="module"></script>
