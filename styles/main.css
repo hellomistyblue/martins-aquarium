@@ -16,7 +16,12 @@ h1 {
 }
 li {
     margin-bottom: 8px;
+    padding: 5px 0; 
+}
+.location {
+    margin-bottom: 8px;
+    padding: 5px 0; 
 }
 .locations {
-    margin-top: 5px;    
+    margin-top: 8px;
 }

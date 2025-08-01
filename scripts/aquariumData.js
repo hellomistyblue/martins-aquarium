@@ -56,7 +56,86 @@ export const database = {
             diet: "Carnivore",
             image: "https://a-z-animals.com/media/2022/04/shutterstock_2175839535-2048x1365.jpg"
         },
-       
+        {
+            name: "Nemo",
+            species: "Beta Fish",
+            length: 3,
+            location: "Great Barrier Reef",
+            diet: "Omnivore",
+            image: "https://example.com/images/nemo.jpg"
+        },
+        {
+            name: "Bubbles",
+            species: "Yellow Tang",
+            length: 5,
+            location: "Maldives Coral Gardens",
+            diet: "Herbivore",
+            image: "https://example.com/images/bubbles.jpg"
+        },
+        {
+            name: "Captain",
+            species: "Angelfish",
+            length: 6,
+            location: "Kelp Forest",
+            diet: "Omnivore",
+            image: "https://example.com/images/captain.jpg"
+        },
+        {
+            name: "Splash",
+            species: "Parrotfish",
+            length: 10,
+            location: "Blue Hole",
+            diet: "Herbivore",
+            image: "https://example.com/images/splash.jpg"
+        },
+        {
+            name: "Zippy",
+            species: "Damselfish",
+            length: 4,
+            location: "Raja Ampat",
+            diet: "Omnivore",
+            image: "https://example.com/images/zippy.jpg"
+        },
+        {
+            name: "Shimmer",
+            species: "Butterflyfish",
+            length: 9,
+            location: "Great Barrier Reef",
+            diet: "Carnivore",
+            image: "https://example.com/images/shimmer.jpg"
+        },
+        {
+            name: "Goldie",
+            species: "Goldfish",
+            length: 15,
+            location: "Kelp Forest",
+            diet: "Omnivore",
+            image: "https://example.com/images/goldie.jpg"
+        },
+        {
+            name: "Tango",
+            species: "Moorish Idol",
+            length: 7,
+            location: "Maldives Coral Gardens",
+            diet: "Omnivore",
+            image: "https://example.com/images/tango.jpg"
+        },
+        {
+            name: "Whiskers",
+            species: "Catfish",
+            length: 12,
+            location: "Blue Hole",
+            diet: "Carnivore",
+            image: "https://example.com/images/whiskers.jpg"
+        },
+        {
+            name: "Marble",
+            species: "Grouper",
+            length: 20,
+            location: "Raja Ampat",
+            diet: "Carnivore",
+            image: "https://example.com/images/marble.jpg"
+        },
     ],
     tips: [
         {
